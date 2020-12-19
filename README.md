@@ -6,3 +6,9 @@ The analysis looks into the trending YouTube videos in the United States to dete
 The analysis explores the relationship view count has with continuous variables such as likes, dislikes, and comments. Next, it examines the categorical variables like channel, category, and tags. Lastly, the analysis looks into the publishing times to see whether posting a video at a particular time of the day is favorable for getting more views on a video. 
 
 The data was obtained from kaggle.com.
+
+To reproduce the analysis follow the steps below:
+1) Download the data from https://www.kaggle.com/datasnaek/youtube-new
+2) Download the R file attached to the repository
+3) Adjust the paths in the R file to the folder where you saved the downloaded Kaggle data
+4) Enjoy
